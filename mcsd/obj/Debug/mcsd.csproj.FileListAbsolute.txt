@@ -1,0 +1,1 @@
+C:\src\mcsd\mcsd\bin\Debug\mcsd.exe.config

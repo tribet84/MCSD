@@ -1,0 +1,6 @@
+C:\src\training\mcsd\mcsd\obj\Debug\Chapter1.csprojResolveAssemblyReference.cache
+C:\src\training\mcsd\mcsd\bin\Debug\mcsd.exe.config
+C:\src\training\mcsd\mcsd\bin\Debug\mcsd.exe
+C:\src\training\mcsd\mcsd\bin\Debug\mcsd.pdb
+C:\src\training\mcsd\mcsd\obj\Debug\mcsd.exe
+C:\src\training\mcsd\mcsd\obj\Debug\mcsd.pdb

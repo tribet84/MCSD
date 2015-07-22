@@ -34,6 +34,7 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Net.Http" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -41,16 +42,38 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Part 1\Tasks8.cs" />
+    <Compile Include="Part 2\AsyncAwait2.cs" />
+    <Compile Include="Part 2\AsyncAwait.cs" />
+    <Compile Include="Part 2\BlockingCollectionExample.cs" />
+    <Compile Include="Part 2\ParallelExample.cs" />
+    <Compile Include="Part 2\PLINQExample.cs" />
+    <Compile Include="Part 2\PLINQExample2.cs" />
+    <Compile Include="Part 3\Lambda4.cs" />
+    <Compile Include="Part 3\Lambda3.cs" />
+    <Compile Include="Part 3\Lambda2.cs" />
+    <Compile Include="Part 3\Lambda1.cs" />
+    <Compile Include="Part 3\Contravariance.cs" />
+    <Compile Include="Part 3\Covariance.cs" />
+    <Compile Include="Part 3\Delegates.cs" />
     <Compile Include="Program.cs" />
-    <Compile Include="Threads1.cs" />
-    <Compile Include="Threads2.cs" />
-    <Compile Include="Threads3.cs" />
-    <Compile Include="Threads4.cs" />
+    <Compile Include="Part 1\Tasks7.cs" />
+    <Compile Include="Part 1\Tasks6.cs" />
+    <Compile Include="Part 1\Tasks5.cs" />
+    <Compile Include="Part 1\Tasks4.cs" />
+    <Compile Include="Part 1\Tasks3.cs" />
+    <Compile Include="Part 1\Tasks2.cs" />
+    <Compile Include="Part 1\Threads1.cs" />
+    <Compile Include="Part 1\Threads2.cs" />
+    <Compile Include="Part 1\Threads3.cs" />
+    <Compile Include="Part 1\Tasks1.cs" />
+    <Compile Include="Part 1\Threads4.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

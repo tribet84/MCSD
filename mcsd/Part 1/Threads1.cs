@@ -26,19 +26,17 @@ namespace Chapter1
         }
     }
 }
-// Displays
-//Main thread: Do some work.
-//ThreadProc: 0
-//Main thread: Do some work.
-//ThreadProc: 1
-//Main thread: Do some work.
-//ThreadProc: 2
-//Main thread: Do some work.
-//ThreadProc: 3
-//ThreadProc: 4
-//ThreadProc: 5
-//ThreadProc: 6
-//ThreadProc: 7
-//ThreadProc: 8
-//ThreadProc: 9
-//ThreadProc: 10
+// Main thread: Do some work.
+// ThreadProc: 0
+// ThreadProc: 1
+// ThreadProc: 2
+// ThreadProc: 3
+// ThreadProc: 4
+// ThreadProc: 5
+// ThreadProc: 6
+// ThreadProc: 7
+// ThreadProc: 8
+// ThreadProc: 9
+// Main thread: Do some work.
+// Main thread: Do some work.
+// Main thread: Do some work.

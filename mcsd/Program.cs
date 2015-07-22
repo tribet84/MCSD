@@ -1,10 +1,12 @@
-﻿namespace Chapter1
+﻿using System;
+namespace Chapter1
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Threads1.Run();
+            Lambda4.Run();
+            Console.Read();
         }
     }
 }

@@ -49,6 +49,10 @@
     <Compile Include="Part 2\ParallelExample.cs" />
     <Compile Include="Part 2\PLINQExample.cs" />
     <Compile Include="Part 2\PLINQExample2.cs" />
+    <Compile Include="Part 3\Events4.cs" />
+    <Compile Include="Part 3\Events3.cs" />
+    <Compile Include="Part 3\Events2.cs" />
+    <Compile Include="Part 3\Events1.cs" />
     <Compile Include="Part 3\Lambda4.cs" />
     <Compile Include="Part 3\Lambda3.cs" />
     <Compile Include="Part 3\Lambda2.cs" />

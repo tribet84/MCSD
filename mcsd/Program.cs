@@ -5,7 +5,8 @@ namespace Chapter1
     {
         static void Main(string[] args)
         {
-            Lambda4.Run();
+            Events4 p = new Events4();
+            p.CreateAndRaise();
             Console.Read();
         }
     }

@@ -1,4 +1,3 @@
-C:\src\training\mcsd\mcsd\obj\Debug\Chapter1.csprojResolveAssemblyReference.cache
 C:\src\training\mcsd\mcsd\bin\Debug\Chapter2.exe.config
 C:\src\training\mcsd\mcsd\bin\Debug\Chapter2.exe
 C:\src\training\mcsd\mcsd\bin\Debug\Chapter2.pdb

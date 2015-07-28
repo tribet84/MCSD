@@ -60,6 +60,11 @@
     <Compile Include="Part 3\Contravariance.cs" />
     <Compile Include="Part 3\Covariance.cs" />
     <Compile Include="Part 3\Delegates.cs" />
+    <Compile Include="Part 4\Exceptions5.cs" />
+    <Compile Include="Part 4\Exceptions4.cs" />
+    <Compile Include="Part 4\Exceptions3.cs" />
+    <Compile Include="Part 4\Exceptions2.cs" />
+    <Compile Include="Part 4\Exceptions1.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Part 1\Tasks7.cs" />
     <Compile Include="Part 1\Tasks6.cs" />

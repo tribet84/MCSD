@@ -10,7 +10,7 @@ namespace Chapter2
     {
         static void Main(string[] args)
         {
-            Types2.Run();
+            Types6.Run();
             Console.Read();
         }
     }

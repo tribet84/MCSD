@@ -41,17 +41,21 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Part 1\Types6.cs" />
-    <Compile Include="Part 1\Types5.cs" />
-    <Compile Include="Part 1\Types4.cs" />
-    <Compile Include="Part 1\Types3.cs" />
-    <Compile Include="Part 1\Types2.cs" />
-    <Compile Include="Part 1\Types1.cs" />
+    <Compile Include="Part 5\Types7.cs" />
+    <Compile Include="Part 5\Types6.cs" />
+    <Compile Include="Part 5\Types5.cs" />
+    <Compile Include="Part 5\Types4.cs" />
+    <Compile Include="Part 5\Types3.cs" />
+    <Compile Include="Part 5\Types2.cs" />
+    <Compile Include="Part 5\Types1.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Part 6\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

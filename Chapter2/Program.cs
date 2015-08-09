@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Chapter2
 {
@@ -10,7 +6,9 @@ namespace Chapter2
     {
         static void Main(string[] args)
         {
-            Types6.Run();
+            MyMoney m = new MyMoney(42.42M);
+            decimal amount = m;
+            int truncatedAmount = (int)m;
             Console.Read();
         }
     }

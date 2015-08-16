@@ -48,6 +48,7 @@
     <Compile Include="Part 5\Types3.cs" />
     <Compile Include="Part 5\Types2.cs" />
     <Compile Include="Part 5\Types1.cs" />
+    <Compile Include="Part 6\Encapsulation.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -55,7 +56,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Part 6\" />
+    <Folder Include="Part 7\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

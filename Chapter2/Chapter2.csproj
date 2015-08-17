@@ -49,15 +49,18 @@
     <Compile Include="Part 5\Types2.cs" />
     <Compile Include="Part 5\Types1.cs" />
     <Compile Include="Part 6\Encapsulation.cs" />
+    <Compile Include="Part 7\Inheritance5.cs" />
+    <Compile Include="Part 7\Inheritance4.cs" />
+    <Compile Include="Part 7\Inheritance3.cs" />
+    <Compile Include="Part 7\Inheritance2.cs" />
+    <Compile Include="Part 7\Inheritance1.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Part 7\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

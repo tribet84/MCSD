@@ -6,9 +6,7 @@ namespace Chapter2
     {
         static void Main(string[] args)
         {
-            MyMoney m = new MyMoney(42.42M);
-            decimal amount = m;
-            int truncatedAmount = (int)m;
+            MyCalendar.Run();
             Console.Read();
         }
     }

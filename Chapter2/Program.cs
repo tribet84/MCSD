@@ -6,7 +6,7 @@ namespace Chapter2
     {
         static void Main(string[] args)
         {
-            MyCalendar.Run();
+            House.Init();
             Console.Read();
         }
     }

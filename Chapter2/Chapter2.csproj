@@ -58,6 +58,7 @@
     <Compile Include="Part 8\Developer.cs" />
     <Compile Include="Part 8\ExpressionTreesExample.cs" />
     <Compile Include="Part 8\House.cs" />
+    <Compile Include="Part 9\UnmanagedWrapper.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

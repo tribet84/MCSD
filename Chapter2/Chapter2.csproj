@@ -42,6 +42,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Part 10\SecureStringExample.cs" />
+    <Compile Include="Part 10\KeyContainer.cs" />
+    <Compile Include="Part 10\RSAEncryption.cs" />
+    <Compile Include="Part 10\AESEncryption.cs" />
     <Compile Include="Part 5\Types7.cs" />
     <Compile Include="Part 5\Types6.cs" />
     <Compile Include="Part 5\Types5.cs" />

@@ -1,4 +1,5 @@
 ﻿using System;
+using Chapter2.Part_10;
 
 namespace Chapter2
 {
@@ -6,7 +7,7 @@ namespace Chapter2
     {
         static void Main(string[] args)
         {
-            House.Init();
+            SecureStringExample.SecureAString();
             Console.Read();
         }
     }

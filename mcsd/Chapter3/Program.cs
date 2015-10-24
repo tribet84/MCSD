@@ -7,7 +7,7 @@ namespace Chapter3
     {
         static void Main(string[] args)
         {
-            SecureStringExample.SecureAString();
+            ReadPerformanceCounters.HowToReadPerformanceCounters();
             Console.Read();
         }
     }

@@ -42,6 +42,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Part 14\ReadPerformanceCounters.cs" />
+    <Compile Include="Part 14\ReadEventLog.cs" />
+    <Compile Include="Part 14\EventLogExample.cs" />
+    <Compile Include="Part 14\TraceSourceListenerExample.cs" />
+    <Compile Include="Part 14\TraceSourceExample.cs" />
+    <Compile Include="Part 14\DebugExample.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Part 10\AESEncryption.cs" />
     <Compile Include="Part 10\KeyContainer.cs" />

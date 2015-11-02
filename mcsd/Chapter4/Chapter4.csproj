@@ -49,6 +49,10 @@
     <Compile Include="Part15\WebRequestExample.cs" />
     <Compile Include="Part15\DirectoryInfoExample.cs" />
     <Compile Include="Part16\MyService.cs" />
+    <Compile Include="Part17\ExtendWhere.cs" />
+    <Compile Include="Part17\QueryVSMethodSyntax.cs" />
+    <Compile Include="Part17\LambdaExample.cs" />
+    <Compile Include="Part17\ObjectInitialization.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

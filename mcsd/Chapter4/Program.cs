@@ -6,7 +6,7 @@ namespace Chapter4
     {
         static void Main(string[] args)
         {
-            AsyncExample.HowToUseAsyncProperly();
+            QueryVSMethodSyntax.Run();
             Console.Read();
         }
     }

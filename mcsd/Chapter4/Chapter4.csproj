@@ -53,6 +53,8 @@
     <Compile Include="Part17\QueryVSMethodSyntax.cs" />
     <Compile Include="Part17\LambdaExample.cs" />
     <Compile Include="Part17\ObjectInitialization.cs" />
+    <Compile Include="Part19\HashSetExample.cs" />
+    <Compile Include="Part19\ArrayExamples.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

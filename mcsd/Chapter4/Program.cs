@@ -6,7 +6,7 @@ namespace Chapter4
     {
         static void Main(string[] args)
         {
-            QueryVSMethodSyntax.Run();
+            HashSetExample.Run();
             Console.Read();
         }
     }
